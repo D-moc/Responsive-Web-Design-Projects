@@ -1,14 +1,14 @@
-# Responsive Web Design 
+# Responsive Web Design freecodecamp
 
 Practice projects using **HTML & CSS** to learn responsive design.  
 Includes a **Portfolio** and a **Survey Form**, plus my **certificates**.
 
 ## 📁 Projects
-- **Portfolio** → Responsive personal portfolio with sections for intro, skills, and contact.  
+- **Portfolio** → Responsive personal portfolio tions for intro, skills, and contact.  
 - **Survey Form** → Mobile-friendly form with inputs, dropdowns, and checkboxes.
 
 ## 📸 Certificates
-![Responsive Web Design Certificate](assets/certificates/ResponsiveWebDesign_cert.png)  
+![Responsive Web Design Certificate](assets/certificates/ResponsiveWebDesign_Cert.png)  
 
 ## 🛠 Tech
 - HTML5  
