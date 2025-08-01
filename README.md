@@ -8,8 +8,7 @@ Includes a **Portfolio** and a **Survey Form**, plus my **certificates**.
 - **Survey Form** → Mobile-friendly form with inputs, dropdowns, and checkboxes.
 
 ## 📸 Certificates
-![Responsive Web Design Certificate](assets/certificates/responsive-cert.png)  
-![HTML & CSS Fundamentals](assets/certificates/html-css-cert.png)
+![Responsive Web Design Certificate](assets/certificates/ResponsiveWebDesign_cert.png)  
 
 ## 🛠 Tech
 - HTML5  
